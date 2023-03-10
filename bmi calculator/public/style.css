@@ -1,0 +1,29 @@
+.body{
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    margin: 20%;
+}
+
+.icon {
+    font-size: 2rem;
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  
+  }
+  
+  .footericon{
+    text-align: center;
+    margin: 20px;;
+  }
+  
+  
+  .fa{
+    color:black;
+    text-shadow:2px 2px 4px grey;
+  }
+  
+  .fa:hover{
+    color: rgb(11, 97, 162);
+  }
