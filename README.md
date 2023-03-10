@@ -1,3 +1,3 @@
-# front-end
-it is a simple dicee game.
-devloped using html css and javascript
+# my web devlopment projects
+there are just my academic projects
+
